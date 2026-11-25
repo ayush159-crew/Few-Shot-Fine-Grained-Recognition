@@ -1,0 +1,56 @@
+Downloading: "https://download.pytorch.org/models/resnet18-f37072fd.pth" to /root/.cache/torch/hub/checkpoints/resnet18-f37072fd.pth
+  0%|          | 0.00/44.7M [00:00<?, ?B/s] 46%|████▌     | 20.6M/44.7M [00:00<00:00, 216MB/s] 95%|█████████▍| 42.4M/44.7M [00:00<00:00, 223MB/s]100%|██████████| 44.7M/44.7M [00:00<00:00, 221MB/s]
+Encoded 119.Field_Sparrow
+Encoded 004.Groove_billed_Ani
+Encoded 041.Scissor_tailed_Flycatcher
+Encoded 012.Yellow_headed_Blackbird
+Encoded 154.Red_eyed_Vireo
+Encoded 173.Orange_crowned_Warbler
+Encoded 152.Blue_headed_Vireo
+Encoded 183.Northern_Waterthrush
+Encoded 042.Vermilion_Flycatcher
+Encoded 011.Rusty_Blackbird
+Encoded 066.Western_Gull
+Encoded 083.White_breasted_Kingfisher
+Encoded 097.Orchard_Oriole
+Encoded 031.Black_billed_Cuckoo
+Encoded 125.Lincoln_Sparrow
+Encoded 115.Brewer_Sparrow
+Encoded 161.Blue_winged_Warbler
+Encoded 027.Shiny_Cowbird
+Encoded 121.Grasshopper_Sparrow
+Encoded 155.Warbling_Vireo
+Encoded 123.Henslow_Sparrow
+Encoded 103.Sayornis
+Encoded 061.Heermann_Gull
+Encoded 198.Rock_Wren
+Encoded 082.Ringed_Kingfisher
+Encoded 025.Pelagic_Cormorant
+Encoded 163.Cape_May_Warbler
+Encoded 006.Least_Auklet
+Encoded 001.Black_footed_Albatross
+Encoded 022.Chuck_will_Widow
+Encoded 147.Least_Tern
+Encoded 187.American_Three_toed_Woodpecker
+Encoded 078.Gray_Kingbird
+Encoded 020.Yellow_breasted_Chat
+Encoded 070.Green_Violetear
+Encoded 174.Palm_Warbler
+Encoded 106.Horned_Puffin
+Encoded 079.Belted_Kingfisher
+Encoded 168.Kentucky_Warbler
+Encoded 160.Black_throated_Blue_Warbler
+Encoded 171.Myrtle_Warbler
+Encoded 191.Red_headed_Woodpecker
+Encoded 038.Great_Crested_Flycatcher
+Encoded 044.Frigatebird
+Encoded 167.Hooded_Warbler
+Encoded 149.Brown_Thrasher
+Encoded 162.Canada_Warbler
+Encoded 010.Red_winged_Blackbird
+Encoded 128.Seaside_Sparrow
+Encoded 036.Northern_Flicker
+Seed 42
+Seed 123
+Seed 2026
+{'device': 'cuda', 'gpu': 'Tesla T4', 'torch': '2.14.1+cu130', 'runtime_seconds': 29.73031783103943, 'seeds': [42, 123, 2026], 'episodes_per_seed': 200}

@@ -1,0 +1,12 @@
+{
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "runtime_seconds": 29.73031783103943,
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "episodes_per_seed": 200
+}
